@@ -15,7 +15,7 @@ export class AuthController {
 
   @Get()
   helloWorld() {
-    return 'Hello World!';
+    return 'Hello World V2!';
   }
 
   @Post('signup')
